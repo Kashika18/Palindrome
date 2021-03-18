@@ -3,5 +3,5 @@
 
 
 
-It ignores the case of the input word
+It ignores the case of the input word.<br>
 It ignores all the extra spaces given
